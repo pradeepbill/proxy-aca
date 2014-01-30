@@ -1,0 +1,11 @@
+{
+	"AcaProxyServerPort" : "9000",
+	"key" : "./certificates/key.pem",
+    "cert" : "./certificates/cert.pem",
+    "viersCert":"viersCert.pem",
+    "infoLog" : "./logs/proxy-aca-info.log",
+    "errorLog" : "./logs/proxy-aca-error.log",
+    "viersHostName" : "localhost",
+    "viersPort" : "8088",
+    "viersEndPoint" : "/MockACAEnrollmentVerificationHttpBinding"
+}

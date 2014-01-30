@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="string" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/string/lib/string.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/string/test/string.test.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/string/lib/string.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/string/lib/string.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/string/test/string.test.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

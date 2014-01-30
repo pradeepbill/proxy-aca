@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="xmldom" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/t/dom/require.t.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/big-file-performance.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/parse-element.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/error.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/node.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/locator.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/namespace.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/simple.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/serializer.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/fragment.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/attr.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/element.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/level3.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/clone.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/html/normalize.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/3rd-cases/mock.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/3rd-cases/o3xml.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/dom-parser.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/test/3rd-cases/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/__package__.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/xmldom/dom.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/t/dom/require.t.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/big-file-performance.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/parse-element.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/error.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/node.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/locator.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/namespace.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/simple.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/serializer.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/fragment.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/attr.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/element.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/level3.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/dom/clone.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/html/normalize.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/3rd-cases/mock.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/3rd-cases/o3xml.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/test/3rd-cases/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/dom-parser.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/__package__.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/dom.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/xmldom/sax.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

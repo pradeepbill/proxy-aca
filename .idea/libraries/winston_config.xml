@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="winston-config" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.mobile.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/winston-config/test/winston_config_test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/winston-config/Gruntfile.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.underscore.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.compat.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/winston-config/lib/winston-config.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.legacy.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.mobile.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/Gruntfile.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/test/winston_config_test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.underscore.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.legacy.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.compat.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/lib/winston-config.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.underscore.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.legacy.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.mobile.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/winston-config/node_modules/lodash/dist/lodash.compat.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

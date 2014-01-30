@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="uuid" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/node-uuid/uuid.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/node-uuid/test/compare_v1.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/node-uuid/test/test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/node-uuid/benchmark/benchmark.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/node-uuid/uuid.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/node-uuid/test/compare_v1.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/node-uuid/test/test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/node-uuid/benchmark/benchmark.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
