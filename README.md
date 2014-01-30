@@ -1,11 +1,11 @@
-Installation
+#Installation
 
 First install node.js. Then:
 
 $ npm install proxy-aca
-Overview
+##Overview
 
-Configure
+##Configure
 
 First, we need to define the configuration. Under the config folder, there is a config.json file.
 
@@ -24,7 +24,7 @@ Edit the file to suit your configuration needs:
 }
 
 
-Running aca proxy
+##Running aca proxy
 
 Under the proxy-aca folder, there is a app.js file. Run
 
